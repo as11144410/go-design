@@ -1,4 +1,4 @@
-package go_design
+package simpleFactory
 
 import (
 	"fmt"
